@@ -30,6 +30,7 @@ class DuckC extends Duck { // Vịt cao su không có chức năng bơi nhưng v
     }
 }
 
+// Case
 class Ducks {
     items: [Duck];
     add(item: Duck){
