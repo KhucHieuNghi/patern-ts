@@ -42,14 +42,14 @@ Priciple 5
 ### Engineering Principles: You Aren’t Gonna Need It (YAGNI)
 YAGNI is about focusing on the problem at hand while (just like KISS) minimizing complexity. Focus on keeping things simple yet open to added complexity later on, use the open/closed principle.
 
-### Engineering Principles: Avoid Premature Optimization (https://wiki.c2.com/?PrematureOptimization)
+### Engineering Principles: Avoid Premature Optimization 
 While we need to keep in mind optimization to avoid performance issues most likely you don't have to optimize that function and make it less readable.
 
-### Engineering Principles: Principle Of Least Astonishment (https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
-POLA is about being boring. Make sure to not surprise the users or yourself both the code and the UX have to be consistent and predictable.
+### Engineering Principles: Law of Demeter, Loosely Couple 
 
-### Engineering Principles: Law of Demeter (https://en.wikipedia.org/wiki/Law_of_Demeter http://mi.codes/programming-principles-the-law-of-demeter-lod/)
-![image](https://user-images.githubusercontent.com/32290857/166319143-14aa3695-b4d6-406b-a5e9-ce0e64415c56.png)
+Law of Demeter is principle use in the programing with purpose dependent relationship limit of class. To maximum restriction risks in changning.
+Loosely Couple is
+
 
 # OOP Modelling
 
